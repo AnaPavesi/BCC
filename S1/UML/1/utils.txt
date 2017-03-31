@@ -1,0 +1,4 @@
+Foram utilizadas para o desenvolvimento do projeto as ferramentas:
+	GitHub:		https://github.com/
+	ArgoUML:	http://argouml.tigris.org/
+	GitKraken:	https://www.gitkraken.com/
